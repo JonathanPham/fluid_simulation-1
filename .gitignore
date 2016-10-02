@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+# Output VTK files
+vtk_out/*.vtk
+
+# Intermediate compilation files
+GCC/*
+GCCdebug/*
+
+# Executable
+FluidSolver*
