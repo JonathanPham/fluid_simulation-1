@@ -1,7 +1,7 @@
 TAG = GCC
 
 #CONFIGURE BUILD SYSTEM
-TARGET	   = NusifSolver-$(TAG)
+TARGET	   = FluidSolver-$(TAG)
 BUILD_DIR  = ./$(TAG)
 SRC_DIR    = ./src
 MAKE_DIR   = ./
