@@ -41,5 +41,11 @@ Flow through a channel (Re = 100):
 Flow through a channel with a backstep (Re = 100):
 ![Flow through a channel with a backstep](https://raw.githubusercontent.com/joaovictortr/fluid_simulation/master/plots/backstep_re_500.png)
 
+## Future Work
+
+* Extend the simulator perform 3D fluid simulations
+* Domain decomposition
+* Implement a distributed solver using MPI
+
 ## References
 [1] Griebel, Michael, Thomas Dornseifer, and Tilman Neunhoeffer. Numerical simulation in fluid dynamics: a practical introduction. Vol. 3. Siam, 1997.
