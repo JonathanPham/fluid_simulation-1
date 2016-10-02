@@ -18,7 +18,7 @@ To compile in release mode, type in a terminal:
 To compile in debug mode, type in a terminal:
 > make TAG=GCCdebug
 
-In this case, the GCC compiler toolchain is used to compile the project. However, one can also use ICC or LLVM by changing the 
+In this case, the GCC compiler toolchain is used to compile the project. However, one can also use ICC or LLVM by adding a include\_{COMPILER NAME}.mk file, similar to the ones in the repository.
 
 ## Simulations
 
