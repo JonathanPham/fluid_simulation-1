@@ -1,6 +1,6 @@
 # Fluid Simulator
 
-Fluid simulator based on the 2D incompressible Navier-Stokes equations. You can find the theoritical framework for the simulation in [1].
+Fluid simulator using finite differences for the 2D incompressible Navier-Stokes equations. You can find the theoritical framework for the simulation as well as how to discretize the equations and set BCs in [1].
 
 ## What is implemented
 
